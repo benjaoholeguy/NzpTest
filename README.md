@@ -17,6 +17,8 @@
   Integrate with bitrise (https://www.bitrise.io)
 
   It is assumed if start node and end node are the same, shortest path is the same node
+  
+  You can see screenshots of the app here https://github.com/benjaoholeguy/NzpTest/blob/master/Screenshot_20180820-082238.png and here https://github.com/benjaoholeguy/NzpTest/blob/master/Screenshot_20180820-082306.png
 
 # How to make it work
 
