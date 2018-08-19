@@ -1,4 +1,4 @@
-#NzpTest
+# NzpTest
 
 React Native + Dijkstra + Redux
 
@@ -18,7 +18,7 @@ Integrate with bitrise (https://www.bitrise.io)
 
 It is assumed if start node and end node are the same, shortest path is the same node
 
-#To Compile
+# How to make it work
 
 clone or download
 
